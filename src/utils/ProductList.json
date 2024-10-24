@@ -1,0 +1,65 @@
+[
+    {
+        "title": " Java Core",
+        "price": "4499",
+        "description" :"Java is an extremely transferable programming language used across platforms and different types of devices, from smartphones to smart TVs. It's used for creating mobile and web apps, enterprise software, Internet of Things (IoT) devices, gaming, big data, distributed, and cloud-based applications among other types. ",
+        "image" : "https://cdn-icons-png.flaticon.com/128/226/226777.png"
+
+        
+    },
+    {
+        "title": " Javascript",
+        "price": "1499",
+        "description" :"JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes ",
+        "image" : "https://cdn-icons-png.flaticon.com/128/1199/1199124.png"
+
+        
+    },
+    {
+        "title": " Html/CSS",
+        "price": "999",
+        "description" :"HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). ",
+        "image" : "https://cdn-icons-png.flaticon.com/128/1051/1051277.png"
+
+        
+    },
+    {
+        "title": " Python",
+        "price": "2499",
+        "description" :"Python is a computer programming language often used to build websites and software, automate tasks, and analyze data. Python is a general-purpose language, not specialized for any specific problems, and used to create various programmes.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
+
+        
+    },
+    {
+        "title": " MySql",
+        "price": "1299",
+        "description" :"MySQL is a relational database management system.The database structure is organized into physical files optimized for speed. The logical data model, with objects such as data tables, views, rows, and columns, offers a flexible programming environment.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/919/919836.png"
+    },
+    {
+        "title": " React ",
+        "price": "3499",
+        "description" :"React language is a component-based, open-source JavaScript library for front-end development. It is specifically used to build user interfaces for single-page applications. Before we get into further details, let's discuss what JavaScript library is, as it would help you get a better idea about React.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/875/875209.png"
+
+        
+    },
+    {
+        "title": " NodeJs",
+        "price": "3499",
+        "description" :"Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project! Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/919/919825.png"
+
+        
+    },
+    {
+        "title": " Git/Github",
+        "price": "1499",
+        "description" :"Git is a an Open Source distributed version control system that is available for free under the GNU General Public License version 2. The Git source code is hosted on GitHub, from where it can be downloaded or installed. Users can also utilize one of the binary installers to deploy Git on their systems. For example, they can use sudo to install Git on Linux, Homebrew on Mac or a downloadable executable file on Windows.",
+        "image" : "https://cdn-icons-png.flaticon.com/128/15455/15455742.png"
+
+        
+    }
+    
+]
